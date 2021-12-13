@@ -1,3 +1,5 @@
+This repository is no longer maintained and has therefore been archived. Feel free to use and extend the code, but we are aware that it might have security leaks, no longer supported dependencies or might not work at all. 
+
 # TalsimSosConverter
 A Converter that feeds a transactional SOS instance with information from the TALSIM project
 
